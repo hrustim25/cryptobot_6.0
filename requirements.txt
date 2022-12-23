@@ -1,0 +1,3 @@
+pyTelegramBotAPI==4.8.0
+aiocoingecko==1.0.0
+black==22.8.0
